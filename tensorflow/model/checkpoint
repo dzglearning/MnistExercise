@@ -1,0 +1,6 @@
+model_checkpoint_path: "mnist_model-951"
+all_model_checkpoint_paths: "mnist_model-751"
+all_model_checkpoint_paths: "mnist_model-801"
+all_model_checkpoint_paths: "mnist_model-851"
+all_model_checkpoint_paths: "mnist_model-901"
+all_model_checkpoint_paths: "mnist_model-951"
